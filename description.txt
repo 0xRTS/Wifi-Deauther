@@ -3,6 +3,11 @@
 -> Select the correct chip type 
 -> WorkMode: Develop
 
+-> Generally upload:
+    partition-table.bin [0x8000]
+    bootloader.bin [0x1000]
+    esp32-wifi-penetration-tool.bin [0x10000]
+
 -> For ESP32 configure as specified in configuration.png
     (Check your chip specifications to encourage a correct upload in it)
 
