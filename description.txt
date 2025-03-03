@@ -1,1 +1,18 @@
+-> Select the correct chip type 
+-> WorkMode: Develop
 
+-> For ESP32 configure as specified in confESP32.png
+    (Check your chip specifications to encourage a correct upload in it)
+
+-> Click start 
+
+-> Connect to ManagementAP
+    password: mgmtadmin
+
+-> Search for 192.168.4.1
+    Select the network to attack
+    Select the type of attack
+    Select the duration 
+
+-> Attack
+    
