@@ -1,3 +1,5 @@
+-> Connect your device
+
 -> Select the correct chip type 
 -> WorkMode: Develop
 
@@ -5,6 +7,7 @@
     (Check your chip specifications to encourage a correct upload in it)
 
 -> Click start 
+-> Wait until the upload ends
 
 -> Connect to ManagementAP
     password: mgmtadmin
