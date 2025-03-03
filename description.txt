@@ -1,4 +1,6 @@
--> Connect your device
+What is depicted below is purely for educational and informational purposes only.
+
+-> Connect the chip to your device 
 
 -> Select the correct chip type 
 -> WorkMode: Develop
